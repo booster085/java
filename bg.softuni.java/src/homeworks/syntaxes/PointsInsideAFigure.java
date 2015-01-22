@@ -12,13 +12,13 @@ public class PointsInsideAFigure {
 		float aX = input.nextFloat();
 		float aY = input.nextFloat();
 		
-		//big rectangle borders
+		//whole rectangle borders
 		float bigRectXmin = 12.5f;
 		float bigRectXmax = 22.5f;
 		float bigRectYmin = 6f;
 		float bigRectYmax = 13.5f;
 		
-		//small rectangle borders;
+		//empty rectangle borders;
 		float smallRectXmin = 17.5f;
 		float smallRectXmax = 20f;
 		float smallRectYmin = 8.5f;
