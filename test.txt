@@ -1,2 +1,5 @@
 1.Towa e ot windowsa na PC-to
 2.Towa e ot Linuxa na PC-to
+3.Towa e ot Xubuntuto na Laptop-a 
+4.Towa e ot Windowsa na Laptop-a
+Everything works fine!
