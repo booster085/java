@@ -17,8 +17,8 @@ public class FullHouse {
 	}
 	/**
 	 * 
-	 * @param suit1 - first card
-	 * @param suit2 - second card
+	 * @param card1 - first card
+	 * @param card2 - second card
 	 * @return - if card's first index (face) is equal or not
 	 */
 	static boolean checkFaceIfEqual(String card1, String card2) {
