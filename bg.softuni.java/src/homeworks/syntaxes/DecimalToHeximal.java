@@ -1,4 +1,4 @@
-package homeworks.syntaxes;
+package Homeworks.syntax;
 
 import java.util.Scanner;
 

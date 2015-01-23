@@ -1,4 +1,4 @@
-package homeworks.syntaxes;
+package Homeworks.syntax;
 
 import java.util.Scanner;
 
@@ -9,22 +9,16 @@ public class CountOfBitsOne {
 		Scanner input = new Scanner(System.in);
 
 		int decNumber = input.nextInt();
+		int bit1Counter = Integer.bitCount(decNumber);
 		String binNumber = Integer.toBinaryString(decNumber);
-		int bit1Counter = 0;
-		for (int i = 0; i < binNumber.length(); i++) {
-			if (binNumber.charAt(i) == '1') {
-				bit1Counter++;
-			}
-		}
 		//here add zeroes if binary number's length is less than 16bits
 		if (binNumber.length() < 16) {
-			String sixteenZeroes = "0000000000000000";
-			binNumber = (sixteenZeroes + binNumber)
-					.substring(binNumber.length());
+			System.out.printf("%016d\n", Long.parseLong(binNumber));
+		} else {
+			System.out.println(binNumber);
 		}
-		System.out.println(binNumber);
+		
 		System.out.println(bit1Counter);
-
 	}
 
 }

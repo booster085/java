@@ -1,4 +1,4 @@
-package homeworks.syntaxes;
+package Homeworks.syntax;
 
 import java.util.Scanner;
 
@@ -21,8 +21,8 @@ public class CountEqualBitPairs {
 				equalBitCounter++;
 			}
 		}
-		System.out.println(binNumber);
-		System.out.println(equalBitCounter);
+		System.out.println("Binary number " + binNumber);
+		System.out.println("Equal pairs: " + equalBitCounter);
 
 	}
 

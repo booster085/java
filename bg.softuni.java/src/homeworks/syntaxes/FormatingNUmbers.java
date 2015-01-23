@@ -1,10 +1,13 @@
-package homeworks.syntaxes;
+package Homeworks.syntax;
 
+import java.util.Locale;
 import java.util.Scanner;
 
 public class FormatingNUmbers {
 
 	public static void main(String[] args) {
+		
+		Locale.setDefault(Locale.ROOT);
 		
 		Scanner input = new Scanner(System.in);
 		

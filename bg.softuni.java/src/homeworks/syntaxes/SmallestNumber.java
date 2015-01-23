@@ -1,4 +1,4 @@
-package homeworks.syntaxes;
+package Homeworks.syntax;
 
 import java.util.Scanner;
 
@@ -15,10 +15,11 @@ public class SmallestNumber {
 		double c = input.nextDouble();
 		double min = (a < b) ? a : b;
 		min = (min < c) ? min : c;
-		System.out.println("Smallest number is: " + min);
-		
-		
-		
+		if ((min % 1 == 0)) {
+			System.out.println((int)min);
+		} else {
+			System.out.println(min);
+		}
 	}
 
 }
