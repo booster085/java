@@ -1,5 +1,7 @@
-package homeworks.intro;
-
+package Homeworks.intro;
+/**
+ * @author Ilian
+ */
 public class PrintHometown {
 
 	public static void main(String[] args) {

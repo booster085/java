@@ -1,7 +1,10 @@
-package homeworks.intro;
+package Homeworks.intro;
 
 import java.util.Date;
 
+/**
+ * @author Ilian
+ */
 public class CurrentDateTime {
 
 	public static void main(String[] args) {

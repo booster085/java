@@ -1,7 +1,11 @@
-package homeworks.intro;
+package Homeworks.intro;
 
 import java.util.Scanner;
 
+/**
+ * @author Ilian
+ *
+ */
 public class SumTwoNumbers {
 
 	public static void main(String[] args) {
@@ -13,6 +17,7 @@ public class SumTwoNumbers {
 		int b = input.nextInt();
 		int sum = a + b;
 		System.out.println( "a + b = " + sum);
+		input.close();
 	}
 
 }

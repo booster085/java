@@ -1,4 +1,4 @@
-package homeworks.intro;
+package Homeworks.intro;
 
 import java.util.Scanner;
 
@@ -23,6 +23,7 @@ public class SortArrayOfStrings {
 				}
 			}
 		}
+		input.close();
 		for (String string : strArray) {
 			System.out.println(string);
 		}
