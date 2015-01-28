@@ -23,8 +23,10 @@ public class ListOfProducts {
 			for (Product product : productList) {
 				fileWriter.println(product);
 			}
-		} catch (FileNotFoundException | UnsupportedEncodingException fnfe) {
+		} catch (FileNotFoundException fnfe) {
 			System.out.println("File not found or invalid encoding");
+		} catch (UnsupportedEncodingException ue) {
+			System.out.println("Unsupported encoding");
 		}
 	}
 
@@ -33,6 +35,7 @@ public class ListOfProducts {
 		Locale.setDefault(Locale.ROOT);
 		
 		List<Product> productList = new ArrayList<Product>();
+		//Reuse method from class OrderOfProducts
 		productList = OrdedOfProducts.getProductsAndPricesFromFile(PRODUCTS);
 		
 			//Implement comparator to sort Object List by property price 
