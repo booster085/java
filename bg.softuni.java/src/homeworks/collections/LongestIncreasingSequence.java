@@ -1,6 +1,5 @@
 package Homeworks.collections;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class LongestIncreasingSequence {
@@ -8,37 +7,31 @@ public class LongestIncreasingSequence {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 
-		String line = input.nextLine();
-		String[] strNumbers = line.split("\\s+");
-
-		ArrayList<Integer> allNumbers = new ArrayList();
-		int maxSequence = 1;
-		String longestSequence = "";
-		for (int i = 0; i < strNumbers.length - 1; i++) {
-			int currentNum = Integer.parseInt(strNumbers[i]);
-			int nextNum = Integer.parseInt(strNumbers[i + 1]);
-			allNumbers.add(currentNum);
-			int index = allNumbers.size() - 1;
-			if (i == strNumbers.length - 2 && nextNum > currentNum) {
-				allNumbers.add(nextNum);
-			}
-
-			if (allNumbers.get(index) >= nextNum || i == strNumbers.length - 2) {
-				String result = allNumbers.toString().replace("[", "").replace("]", "").replace(",", "");
-				System.out.println(result);
-				if (maxSequence < allNumbers.size()) {
-					maxSequence = allNumbers.size();
-					longestSequence = result;
+		String[] numbersAsStr = input.nextLine().trim().split("\\s+");
+		int[] numbersArray = new int[numbersAsStr.length];
+		for (int i = 0; i < numbersAsStr.length; i++) {
+			numbersArray[i] = Integer.parseInt(numbersAsStr[i]);
+		}
+		int counter = 1;
+		int bestEndIndex = 0;
+		int bestCount = 1;
+		System.out.print(numbersArray[0]);
+		for (int i = 1; i < numbersArray.length; i++) {
+			if (numbersArray[i] > numbersArray[i - 1]) {
+				System.out.printf(" %d", numbersArray[i]);
+				counter++;
+				if (counter > bestCount) {
+					bestCount = counter;
+					bestEndIndex = i;
 				}
-				allNumbers.clear();
+			} else {
+				System.out.printf("\n%d", numbersArray[i]);
+				counter = 1;
 			}
-			
 		}
-		if (maxSequence > 1) {
-			System.out.println("Longest: " + longestSequence);
+		System.out.printf("\nLongest: ");
+		for (int i = bestEndIndex - bestCount + 1; i <= bestEndIndex; i++) {
+			System.out.printf("%d ", numbersArray[i]);
 		}
-		
-
 	}
-
 }
