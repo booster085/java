@@ -18,7 +18,7 @@ public class MostFrequentWord {
 			if(wordRepeating.containsKey(word)){
 				int occurrences = wordRepeating.get(word);
 				wordRepeating.put(word, occurrences + 1);
-				//counter++;
+				occurrences++;
 				if (maxCount < occurrences) {
 					maxCount = occurrences;
 				}
@@ -29,7 +29,7 @@ public class MostFrequentWord {
 		for (Map.Entry<String, Integer> entry : wordRepeating.entrySet()) {
 			//Print entry.set only if value is equal to max occurrences of the word
 			//The alphabetically order is implemented by TreeSet structure
-			if (entry.getValue() >= maxCount) {
+			if (entry.getValue() == maxCount) {
 				System.out.printf("%s -> %d times\n", entry.getKey(), entry.getValue());
 			}
 			
