@@ -1,0 +1,585 @@
+D:\Games
+D:\Games\Electronic Arts
+D:\Games\GTA SA B13
+D:\Games\Need For Speed World
+D:\Games\NFS world
+D:\Games\SpinTires
+D:\Games\Spintires CODEX
+D:\Games\WorldOfTanks
+D:\Games\Electronic Arts\Need For Speed World
+D:\Games\GTA SA B13\anim
+D:\Games\GTA SA B13\audio
+D:\Games\GTA SA B13\CLEO
+D:\Games\GTA SA B13\data
+D:\Games\GTA SA B13\models
+D:\Games\GTA SA B13\movies
+D:\Games\GTA SA B13\text
+D:\Games\WorldOfTanks\install
+D:\Games\WorldOfTanks\logs
+D:\Games\WorldOfTanks\replays
+D:\Games\WorldOfTanks\res
+D:\Games\WorldOfTanks\res_bw
+D:\Games\WorldOfTanks\res_mods
+D:\Games\WorldOfTanks\Updates
+D:\Games\Electronic Arts\Need For Speed World\Data
+D:\Games\GTA SA B13\audio\CONFIG
+D:\Games\GTA SA B13\audio\SFX
+D:\Games\GTA SA B13\audio\streams
+D:\Games\GTA SA B13\CLEO\CLEO_TEXT
+D:\Games\GTA SA B13\data\Decision
+D:\Games\GTA SA B13\data\Icons
+D:\Games\GTA SA B13\data\maps
+D:\Games\GTA SA B13\data\Paths
+D:\Games\GTA SA B13\data\script
+D:\Games\GTA SA B13\models\coll
+D:\Games\GTA SA B13\models\generic
+D:\Games\GTA SA B13\models\grass
+D:\Games\GTA SA B13\models\txd
+D:\Games\WorldOfTanks\install\common
+D:\Games\WorldOfTanks\install\html
+D:\Games\WorldOfTanks\res\audio
+D:\Games\WorldOfTanks\res\awesomium
+D:\Games\WorldOfTanks\res\gui
+D:\Games\WorldOfTanks\res\helpers
+D:\Games\WorldOfTanks\res\influx
+D:\Games\WorldOfTanks\res\packages
+D:\Games\WorldOfTanks\res\scripts
+D:\Games\WorldOfTanks\res\text
+D:\Games\WorldOfTanks\res_bw\scripts
+D:\Games\WorldOfTanks\res_mods\0.9.3
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS
+D:\Games\Electronic Arts\Need For Speed World\Data\FRONTEND
+D:\Games\Electronic Arts\Need For Speed World\Data\GFX
+D:\Games\Electronic Arts\Need For Speed World\Data\GLOBAL
+D:\Games\Electronic Arts\Need For Speed World\Data\LANGUAGES
+D:\Games\Electronic Arts\Need For Speed World\Data\Logs
+D:\Games\Electronic Arts\Need For Speed World\Data\Media
+D:\Games\Electronic Arts\Need For Speed World\Data\Movies
+D:\Games\Electronic Arts\Need For Speed World\Data\Settings
+D:\Games\Electronic Arts\Need For Speed World\Data\Sound
+D:\Games\Electronic Arts\Need For Speed World\Data\TracksHigh
+D:\Games\GTA SA B13\data\Decision\Allowed
+D:\Games\GTA SA B13\data\Decision\andyd
+D:\Games\GTA SA B13\data\Decision\chris
+D:\Games\GTA SA B13\data\Decision\ChrisM
+D:\Games\GTA SA B13\data\Decision\Craig
+D:\Games\GTA SA B13\data\Decision\david
+D:\Games\GTA SA B13\data\Decision\Imran
+D:\Games\GTA SA B13\data\maps\country
+D:\Games\GTA SA B13\data\maps\generic
+D:\Games\GTA SA B13\data\maps\interior
+D:\Games\GTA SA B13\data\maps\LA
+D:\Games\GTA SA B13\data\maps\leveldes
+D:\Games\GTA SA B13\data\maps\SF
+D:\Games\GTA SA B13\data\maps\vegas
+D:\Games\GTA SA B13\data\maps\veh_mods
+D:\Games\WorldOfTanks\install\common\css
+D:\Games\WorldOfTanks\install\common\img
+D:\Games\WorldOfTanks\install\common\js
+D:\Games\WorldOfTanks\install\html\bg
+D:\Games\WorldOfTanks\install\html\cs
+D:\Games\WorldOfTanks\install\html\da
+D:\Games\WorldOfTanks\install\html\de
+D:\Games\WorldOfTanks\install\html\el
+D:\Games\WorldOfTanks\install\html\en
+D:\Games\WorldOfTanks\install\html\es
+D:\Games\WorldOfTanks\install\html\et
+D:\Games\WorldOfTanks\install\html\fi
+D:\Games\WorldOfTanks\install\html\fr
+D:\Games\WorldOfTanks\install\html\hr
+D:\Games\WorldOfTanks\install\html\hu
+D:\Games\WorldOfTanks\install\html\it
+D:\Games\WorldOfTanks\install\html\lt
+D:\Games\WorldOfTanks\install\html\lv
+D:\Games\WorldOfTanks\install\html\nl
+D:\Games\WorldOfTanks\install\html\no
+D:\Games\WorldOfTanks\install\html\pl
+D:\Games\WorldOfTanks\install\html\pt
+D:\Games\WorldOfTanks\install\html\ro
+D:\Games\WorldOfTanks\install\html\sr
+D:\Games\WorldOfTanks\install\html\sv
+D:\Games\WorldOfTanks\install\html\tr
+D:\Games\WorldOfTanks\res\gui\flash
+D:\Games\WorldOfTanks\res\helpers\audio
+D:\Games\WorldOfTanks\res\helpers\influx
+D:\Games\WorldOfTanks\res\scripts\arena_defs
+D:\Games\WorldOfTanks\res\scripts\client
+D:\Games\WorldOfTanks\res\scripts\common
+D:\Games\WorldOfTanks\res\scripts\entity_defs
+D:\Games\WorldOfTanks\res\scripts\item_defs
+D:\Games\WorldOfTanks\res\scripts\tutorial_docs
+D:\Games\WorldOfTanks\res\scripts\user_data_object_defs
+D:\Games\WorldOfTanks\res\text\lc_messages
+D:\Games\WorldOfTanks\res_bw\scripts\client
+D:\Games\WorldOfTanks\res_bw\scripts\common
+D:\Games\WorldOfTanks\res_bw\scripts\entity_defs
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\2000GTR72
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\200SX
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\240SX
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\240ZG71
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\300C
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\350Z
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\370Z
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\370ZROADSTER
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\911GT2
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\911GT3RS
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\911RSR74
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\959
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\991S
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\997GT2
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\997TT
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\AAA
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\ALFAROMEO8C
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\BATTLEFIELD1
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\BATTLEFIELD2
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\BENTLEYGTCONV
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\BMW135I08
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\BMW1M
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\BMW3CSL
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\BMWM1PROCAR
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\BMWM3E30
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\BMWM3E92
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\BMWM3GTR
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\BMWM3GTS
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\BMWM6
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\BMWM6CONV
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\BMWZ4GT3
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\BOXSTERSPYDER
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\BRAKES
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CAMARO
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CAMAROZL1
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CAR1002
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CAR1004
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CAR1006
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CAR1008
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CAR1010
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CAR1012
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CAR1014
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CAR1016
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CAR1018
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CAR1020
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CAR1022
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CAR1024
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CAR1026
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CAR1028
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CAR1030
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CAR1032
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CAR1034
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CAR1036
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CAR1038
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CAR1040
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CAR1044
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CAR1046
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CAR1048
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CAR1050
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CAR1052
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CAR1054
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CAR1056
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CAR1060
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CAR1062
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CAR1064
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CAR1066
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CAR1068
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CARRERAGT
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CAYMANS
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CCX
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CCXWORLD100
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CHALLENGER71
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CHALLENGERN
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CHARGER07BEE
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CHARGER69
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CHEVELLE
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CLIOV6
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CONSS10
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\COPCARMUS08
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\COPCARMUS08GH
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\COPGHOST
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\COPGTO
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\COPGTOGHOST
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\COPHELI
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\COPMIDSIZE
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\COPMIDSIZEINT
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\COPSPORT
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\COPSPORTGHOST
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\COPSPORTHENCH
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\COPSUV
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\COPSUVL
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\COROLLA
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CORVETTE67
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CORVETTEZ06
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CORVETTEZR1
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\COSWORTH
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\COUNTACH
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CROWNCOP
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CTSV
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\CUDA
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\DAYTONACOUPE
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\DBS
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\DBSVOLANTE
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\DELTA
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\DIABLO
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\ECLIPSEELITE
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\ECLIPSEGT
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\ELCAMINO
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\ELISE
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\EUROPA
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\EVORA
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\EXHAUST
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\EXIGECUP260
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\FIREBIRD78
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\FOCUSRS10
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\FORDGT
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\FORDGT40
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\G35
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\GALLARDO09
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\GALLARDO10VB
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\GALLARDOSPYDR
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\GTIMK1
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\GTO65
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\IMPREZASTI09
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\IMPREZAWRXSTI
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\IS300
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\IS350
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\ISF
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\JAGUARETYPE
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\JAGUARXKR
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\LAMBOSESTO
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\LANCEREVO8
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\LANCEREVO9
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\LANCEREVOX
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\LEXUSLFA
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\MAZDASPEED3
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\MCLARENMP4
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\MEGANERS10
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\MIURASV
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\MR2
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\MURCIELAGO640
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\MURCIELAGO650
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\MURCIELAGOSV
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\MUSTANGBOSS12
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\MUSTANGBOSS69
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\MX508
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\PANAMERA10
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\PLATES
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\R32
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\R8
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\R8V10
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\ROADRUNNER
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\ROOF_SCOOP
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\RS1
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\RS4
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\RTRX69
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\RX7
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\RX7RZ
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\RX8
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\RX82009
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\S5
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\SCIONTC
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\SCIROCCO
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\SEMI
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\SHLBYSNAKE12
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\SILVIAS15
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\SKYLINE
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\SKYLINER32
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\SKYLINER35
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\SKYLINER35V
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\SLR722
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\SOLSTICEGXP
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\SPOILER_HATCH
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\SPOILER_LARGE
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\SPOILER_NONE
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\SPOILER_SMALL
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\SUPRA
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\TERLINGUA
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\TRAF4DSEDA
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\TRAF4DSEDB
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\TRAF4DSEDC
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\TRAFAMB
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\TRAFCAMPER
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\TRAFCEMTR
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\TRAFCOURT
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\TRAFDMPTR
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\TRAFFICCOUP
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\TRAFFIRE
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\TRAFGARB
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\TRAFHA
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\TRAFMINIVAN
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\TRAFNEWS
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\TRAFPICKUPA
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\TRAFSTWAG
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\TRAFSUVA
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\TRAFTAXI
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\TRAFVANB
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\TRAILERA
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\TRAILERB
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\TRAILERBOX
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\TRAILERCMT
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\TRAILERCON
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\TRAILERCRATE
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\TRAILERLOG
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\TTRS10
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\URQUATTRO
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\VANTAGEV12
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\VINYLS
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\VIPERELITE
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\VIPERSRT
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\WHEELS
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\WHEELS2
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\WHEELS3
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\WHEELS4
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\WHEELS5
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\WHEELS6
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\Z06CARBON
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\Z4
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\ZL1WORLD100
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\ZONDA
+D:\Games\Electronic Arts\Need For Speed World\Data\CARS\ZONDAROADSTER
+D:\Games\Electronic Arts\Need For Speed World\Data\GLOBAL\gc.vaults
+D:\Games\Electronic Arts\Need For Speed World\Data\GLOBAL\LicensePlates
+D:\Games\Electronic Arts\Need For Speed World\Data\GLOBAL\Safehouse
+D:\Games\Electronic Arts\Need For Speed World\Data\GLOBAL\VinylTextures_Large
+D:\Games\Electronic Arts\Need For Speed World\Data\Media\Cursors
+D:\Games\Electronic Arts\Need For Speed World\Data\Media\map_textures
+D:\Games\Electronic Arts\Need For Speed World\Data\Sound\Blower
+D:\Games\Electronic Arts\Need For Speed World\Data\Sound\Engine
+D:\Games\Electronic Arts\Need For Speed World\Data\Sound\Evt_sys
+D:\Games\Electronic Arts\Need For Speed World\Data\Sound\Global
+D:\Games\Electronic Arts\Need For Speed World\Data\Sound\IG_Global
+D:\Games\Electronic Arts\Need For Speed World\Data\Sound\MixMaps
+D:\Games\Electronic Arts\Need For Speed World\Data\Sound\Moments
+D:\Games\Electronic Arts\Need For Speed World\Data\Sound\Music
+D:\Games\Electronic Arts\Need For Speed World\Data\Sound\PFData
+D:\Games\Electronic Arts\Need For Speed World\Data\Sound\Shifting
+D:\Games\Electronic Arts\Need For Speed World\Data\Sound\Skids
+D:\Games\Electronic Arts\Need For Speed World\Data\Sound\Speech
+D:\Games\Electronic Arts\Need For Speed World\Data\Sound\Splicer
+D:\Games\Electronic Arts\Need For Speed World\Data\TracksHigh\L5RA
+D:\Games\WorldOfTanks\install\common\img\slider
+D:\Games\WorldOfTanks\res\scripts\client\account_helpers
+D:\Games\WorldOfTanks\res\scripts\client\auxiliaryfx
+D:\Games\WorldOfTanks\res\scripts\client\avatarinputhandler
+D:\Games\WorldOfTanks\res\scripts\client\avatar_helpers
+D:\Games\WorldOfTanks\res\scripts\client\gui
+D:\Games\WorldOfTanks\res\scripts\client\helpers
+D:\Games\WorldOfTanks\res\scripts\client\jabber
+D:\Games\WorldOfTanks\res\scripts\client\lightfx
+D:\Games\WorldOfTanks\res\scripts\client\messenger
+D:\Games\WorldOfTanks\res\scripts\client\notification
+D:\Games\WorldOfTanks\res\scripts\client\post_processing
+D:\Games\WorldOfTanks\res\scripts\client\tutorial
+D:\Games\WorldOfTanks\res\scripts\client\vibroeffects
+D:\Games\WorldOfTanks\res\scripts\client\voip
+D:\Games\WorldOfTanks\res\scripts\common\dossiers
+D:\Games\WorldOfTanks\res\scripts\common\dossiers1
+D:\Games\WorldOfTanks\res\scripts\common\dossiers2
+D:\Games\WorldOfTanks\res\scripts\common\items
+D:\Games\WorldOfTanks\res\scripts\common\xmpp
+D:\Games\WorldOfTanks\res\scripts\entity_defs\interfaces
+D:\Games\WorldOfTanks\res\scripts\item_defs\tankmen
+D:\Games\WorldOfTanks\res\scripts\item_defs\vehicles
+D:\Games\WorldOfTanks\res_bw\scripts\client\fx
+D:\Games\WorldOfTanks\res_bw\scripts\client\helpers
+D:\Games\WorldOfTanks\res_bw\scripts\client\postprocessing
+D:\Games\WorldOfTanks\res_bw\scripts\client\scaleform
+D:\Games\WorldOfTanks\res_bw\scripts\client\tests
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib
+D:\Games\WorldOfTanks\res_bw\scripts\entity_defs\interfaces
+D:\Games\WorldOfTanks\res\scripts\client\account_helpers\captcha
+D:\Games\WorldOfTanks\res\scripts\client\account_helpers\settings_core
+D:\Games\WorldOfTanks\res\scripts\client\auxiliaryfx\roccat
+D:\Games\WorldOfTanks\res\scripts\client\avatarinputhandler\aimingsystems
+D:\Games\WorldOfTanks\res\scripts\client\avatarinputhandler\dynamiccameras
+D:\Games\WorldOfTanks\res\scripts\client\gui\arena_info
+D:\Games\WorldOfTanks\res\scripts\client\gui\battle_control
+D:\Games\WorldOfTanks\res\scripts\client\gui\doc_loaders
+D:\Games\WorldOfTanks\res\scripts\client\gui\game_control
+D:\Games\WorldOfTanks\res\scripts\client\gui\prb_control
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform
+D:\Games\WorldOfTanks\res\scripts\client\gui\shared
+D:\Games\WorldOfTanks\res\scripts\client\helpers\html
+D:\Games\WorldOfTanks\res\scripts\client\lightfx\controllers
+D:\Games\WorldOfTanks\res\scripts\client\messenger\doc_loaders
+D:\Games\WorldOfTanks\res\scripts\client\messenger\ext
+D:\Games\WorldOfTanks\res\scripts\client\messenger\formatters
+D:\Games\WorldOfTanks\res\scripts\client\messenger\gui
+D:\Games\WorldOfTanks\res\scripts\client\messenger\proto
+D:\Games\WorldOfTanks\res\scripts\client\messenger\storage
+D:\Games\WorldOfTanks\res\scripts\client\tutorial\control
+D:\Games\WorldOfTanks\res\scripts\client\tutorial\data
+D:\Games\WorldOfTanks\res\scripts\client\tutorial\doc_loader
+D:\Games\WorldOfTanks\res\scripts\client\tutorial\gui
+D:\Games\WorldOfTanks\res\scripts\client\vibroeffects\controllers
+D:\Games\WorldOfTanks\res\scripts\client\voip\vivox
+D:\Games\WorldOfTanks\res\scripts\common\dossiers2\common
+D:\Games\WorldOfTanks\res\scripts\common\dossiers2\custom
+D:\Games\WorldOfTanks\res\scripts\common\dossiers2\test
+D:\Games\WorldOfTanks\res\scripts\common\dossiers2\ui
+D:\Games\WorldOfTanks\res\scripts\item_defs\vehicles\china
+D:\Games\WorldOfTanks\res\scripts\item_defs\vehicles\common
+D:\Games\WorldOfTanks\res\scripts\item_defs\vehicles\france
+D:\Games\WorldOfTanks\res\scripts\item_defs\vehicles\germany
+D:\Games\WorldOfTanks\res\scripts\item_defs\vehicles\japan
+D:\Games\WorldOfTanks\res\scripts\item_defs\vehicles\uk
+D:\Games\WorldOfTanks\res\scripts\item_defs\vehicles\usa
+D:\Games\WorldOfTanks\res\scripts\item_defs\vehicles\ussr
+D:\Games\WorldOfTanks\res_bw\scripts\client\fx\actors
+D:\Games\WorldOfTanks\res_bw\scripts\client\fx\effects
+D:\Games\WorldOfTanks\res_bw\scripts\client\fx\events
+D:\Games\WorldOfTanks\res_bw\scripts\client\fx\joints
+D:\Games\WorldOfTanks\res_bw\scripts\client\helpers\pygui
+D:\Games\WorldOfTanks\res_bw\scripts\client\postprocessing\effects
+D:\Games\WorldOfTanks\res_bw\scripts\client\postprocessing\rendertargets
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\bsddb
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\compiler
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\ctypes
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\curses
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\distutils
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\email
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\encodings
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\hotshot
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\idlelib
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\importlib
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\json
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\lib-tk
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\lib2to3
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\logging
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\msilib
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\multiprocessing
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\plat-aix3
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\plat-aix4
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\plat-atheos
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\plat-beos5
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\plat-darwin
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\plat-freebsd4
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\plat-freebsd5
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\plat-freebsd6
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\plat-freebsd7
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\plat-freebsd8
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\plat-generic
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\plat-irix5
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\plat-irix6
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\plat-linux2
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\plat-mac
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\plat-netbsd1
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\plat-next3
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\plat-os2emx
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\plat-riscos
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\plat-sunos5
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\plat-unixware7
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\pydoc_data
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\site-packages
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\sqlite3
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\unittest
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\wsgiref
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\xml
+D:\Games\WorldOfTanks\res\scripts\client\gui\prb_control\context
+D:\Games\WorldOfTanks\res\scripts\client\gui\prb_control\factories
+D:\Games\WorldOfTanks\res\scripts\client\gui\prb_control\formatters
+D:\Games\WorldOfTanks\res\scripts\client\gui\prb_control\functional
+D:\Games\WorldOfTanks\res\scripts\client\gui\prb_control\items
+D:\Games\WorldOfTanks\res\scripts\client\gui\prb_control\restrictions
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\daapi
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\framework
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\genconsts
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\locale
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\managers
+D:\Games\WorldOfTanks\res\scripts\client\gui\shared\actions
+D:\Games\WorldOfTanks\res\scripts\client\gui\shared\fortifications
+D:\Games\WorldOfTanks\res\scripts\client\gui\shared\gui_items
+D:\Games\WorldOfTanks\res\scripts\client\gui\shared\server_events
+D:\Games\WorldOfTanks\res\scripts\client\gui\shared\tooltips
+D:\Games\WorldOfTanks\res\scripts\client\gui\shared\utils
+D:\Games\WorldOfTanks\res\scripts\client\messenger\ext\filters
+D:\Games\WorldOfTanks\res\scripts\client\messenger\gui\scaleform
+D:\Games\WorldOfTanks\res\scripts\client\messenger\proto\bw
+D:\Games\WorldOfTanks\res\scripts\client\messenger\proto\xmpp
+D:\Games\WorldOfTanks\res\scripts\client\tutorial\control\battle
+D:\Games\WorldOfTanks\res\scripts\client\tutorial\control\lobby
+D:\Games\WorldOfTanks\res\scripts\client\tutorial\control\offbattle
+D:\Games\WorldOfTanks\res\scripts\client\tutorial\doc_loader\sub_parsers
+D:\Games\WorldOfTanks\res\scripts\client\tutorial\gui\scaleform
+D:\Games\WorldOfTanks\res\scripts\item_defs\vehicles\china\components
+D:\Games\WorldOfTanks\res\scripts\item_defs\vehicles\france\components
+D:\Games\WorldOfTanks\res\scripts\item_defs\vehicles\germany\components
+D:\Games\WorldOfTanks\res\scripts\item_defs\vehicles\japan\components
+D:\Games\WorldOfTanks\res\scripts\item_defs\vehicles\uk\components
+D:\Games\WorldOfTanks\res\scripts\item_defs\vehicles\usa\components
+D:\Games\WorldOfTanks\res\scripts\item_defs\vehicles\ussr\components
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\bsddb\test
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\ctypes\macholib
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\ctypes\test
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\distutils\command
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\distutils\tests
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\email\mime
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\email\test
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\idlelib\icons
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\json\tests
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\lib2to3\fixes
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\lib2to3\pgen2
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\multiprocessing\dummy
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\plat-mac\carbon
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\plat-mac\lib-scriptpackages
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\sqlite3\test
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\xml\dom
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\xml\etree
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\xml\parsers
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\xml\sax
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\daapi\settings
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\daapi\view
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\framework\entities
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\framework\managers
+D:\Games\WorldOfTanks\res\scripts\client\gui\shared\gui_items\dossier
+D:\Games\WorldOfTanks\res\scripts\client\gui\shared\gui_items\processors
+D:\Games\WorldOfTanks\res\scripts\client\gui\shared\utils\requesters
+D:\Games\WorldOfTanks\res\scripts\client\messenger\gui\scaleform\channels
+D:\Games\WorldOfTanks\res\scripts\client\messenger\gui\scaleform\data
+D:\Games\WorldOfTanks\res\scripts\client\messenger\gui\scaleform\meta
+D:\Games\WorldOfTanks\res\scripts\client\messenger\gui\scaleform\view
+D:\Games\WorldOfTanks\res\scripts\client\tutorial\gui\scaleform\battle
+D:\Games\WorldOfTanks\res\scripts\client\tutorial\gui\scaleform\lobby
+D:\Games\WorldOfTanks\res\scripts\client\tutorial\gui\scaleform\meta
+D:\Games\WorldOfTanks\res\scripts\client\tutorial\gui\scaleform\offbattle
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\email\test\data
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\plat-mac\lib-scriptpackages\codewarrior
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\plat-mac\lib-scriptpackages\explorer
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\plat-mac\lib-scriptpackages\finder
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\plat-mac\lib-scriptpackages\netscape
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\plat-mac\lib-scriptpackages\stdsuites
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\plat-mac\lib-scriptpackages\systemevents
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\plat-mac\lib-scriptpackages\terminal
+D:\Games\WorldOfTanks\res_bw\scripts\common\lib\plat-mac\lib-scriptpackages\_builtinsuites
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\daapi\view\dialogs
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\daapi\view\lobby
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\daapi\view\login
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\daapi\view\meta
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\framework\entities\abstract
+D:\Games\WorldOfTanks\res\scripts\client\gui\shared\gui_items\dossier\achievements
+D:\Games\WorldOfTanks\res\scripts\client\messenger\gui\scaleform\channels\bw
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\daapi\view\lobby\barracks
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\daapi\view\lobby\components
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\daapi\view\lobby\crewoperations
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\daapi\view\lobby\customization
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\daapi\view\lobby\cybersport
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\daapi\view\lobby\elitewindow
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\daapi\view\lobby\exchange
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\daapi\view\lobby\fortifications
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\daapi\view\lobby\hangar
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\daapi\view\lobby\header
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\daapi\view\lobby\headertutorial
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\daapi\view\lobby\historicalbattles
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\daapi\view\lobby\inputchecker
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\daapi\view\lobby\messengerbar
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\daapi\view\lobby\popover
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\daapi\view\lobby\prb_windows
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\daapi\view\lobby\profile
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\daapi\view\lobby\rally
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\daapi\view\lobby\recruitwindow
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\daapi\view\lobby\server_events
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\daapi\view\lobby\settings
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\daapi\view\lobby\store
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\daapi\view\lobby\techtree
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\daapi\view\lobby\trainings
+D:\Games\WorldOfTanks\res\scripts\client\gui\shared\gui_items\dossier\achievements\abstract
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\daapi\view\lobby\fortifications\components
+D:\Games\WorldOfTanks\res\scripts\client\gui\scaleform\daapi\view\lobby\fortifications\fort_utils
+D:\Games\WorldOfTanks\res\scripts\client\gui\shared\gui_items\dossier\achievements\abstract\mixins

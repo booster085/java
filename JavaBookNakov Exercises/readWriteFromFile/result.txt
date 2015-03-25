@@ -1,0 +1,5 @@
+create --> 6
+destruction --> 5
+code --> 4
+offense --> 3
+programmer --> 3
